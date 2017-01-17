@@ -1,4 +1,5 @@
-Reimplementation of basic machine learning algorithms into a package : mlclassifiers 
+Reimplementation of basic machine learning algorithms into a package : mlclassifiers
+
 Currently implemented:
 
 1. Logistic regression (base, L2 regualrised)
